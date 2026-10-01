@@ -2,7 +2,7 @@
 
 **Effective date: September 30, 2026**
 
-AIGenieDev built **Trivia Party: Quiz Game** as a trivia game available through Google Play.
+Silicon Genie built **Trivia Party: Quiz Game** as a trivia game available through Google Play.
 
 This Privacy Policy explains how information is handled when you use the app.
 
@@ -24,7 +24,7 @@ Trivia Party: Quiz Game offers an optional **Ultra** one-time in-app purchase.
 
 Purchases are processed through **Google Play Billing**. The app communicates with Google Play to obtain product information, initiate purchases, verify purchase status, and restore purchases.
 
-AIGenieDev does not directly collect or process your payment card information. Payment and purchase information handled by Google is subject to Google's own privacy policies and terms.
+Silicon Genie does not directly collect or process your payment card information. Payment and purchase information handled by Google is subject to Google's own privacy policies and terms.
 
 ## Advertising and Analytics
 
@@ -38,11 +38,11 @@ The current version of the app does not request access to sensitive device infor
 
 Trivia Party: Quiz Game does not knowingly collect personal information directly from users through the app.
 
-If you believe personal information has been collected in error, please contact the developer so the matter can be reviewed.
+If you believe personal information has been collected in error, please contact Silicon Genie so the matter can be reviewed.
 
 ## Data Sharing
 
-AIGenieDev does not sell personal information.
+Silicon Genie does not sell personal information.
 
 Information necessary to process an in-app purchase may be handled by Google Play as part of the Google Play Billing service.
 
@@ -63,6 +63,7 @@ Reasonable measures are used to limit the information handled by the app. No met
 The app uses Google Play services for in-app purchase functionality.
 
 Google Privacy Policy:
+
 https://policies.google.com/privacy
 
 ## Changes to This Privacy Policy
@@ -76,5 +77,3 @@ This Privacy Policy may be updated when the app's features or data practices cha
 App: **Trivia Party: Quiz Game**
 
 Contact email: **support@silicon-genie.com**
-
-
